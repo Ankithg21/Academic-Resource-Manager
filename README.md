@@ -8,8 +8,8 @@ Tech Stack
 
 Frontend
 1. HTML: Structure & UI layout
-2. CSS (Tailwind/Bootstrap): Responsive styling
-3. JavaScript (Vanilla JS or React.js): Dynamic UI interactions
+2. CSS : Responsive styling
+3. JavaScript (React.js): Dynamic UI interactions
    
 Backend
 1. Node.js
